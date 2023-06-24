@@ -1,0 +1,268 @@
+excerpt,classification
+Software-defined networking (SDN),1
+"SPDY is an experimental protocol for multiplexing multiple, concurrent streams (typically HTTP request/response streams) over a single TCP connection.",1
+"ASP.NET SignalR is a library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications. What is ""real-time web"" functionality? It's the ability to have your server-side code push content to the connected clients as it happens, in real-time.",0
+"Apache Kafka is a publish-subscribe messaging framework for Java, designed for distributed, high-throughput systems.",2
+Kubernetes is an open source implementation of container cluster management.,1
+OWASP Zed Attack Proxy (ZAP):https://www.owasp.org/index.php/ZAP.,2
+Apache Camel is a powerful open source integration framework based on known Enterprise Integration Patterns with powerful Bean Integration,2
+"Graphite is a highly scalable real-time graphing system, specifically built to visualize numeric time-series data. The data can be visualized through graphite's web interfaces. Graphite is Apache 2.0 Licensed and written in Python. http://graphite.wikidot.com/",2
+Open Web Interface for .NET that describes how components in a HTTP pipeline should communicate.,0
+Zipkin is an open source distributed tracing system created by Twitter.,2
+"A triplestore is a purpose-built database for the storage and retrieval of Resource Description Framework (RDF) metadata -- http://en.wikipedia.org/wiki/Triplestore. RDF stores simple statements each with three elements (subject, predicate and object) - hence ""triple"".",2
+"AWS Lambda allows users to run code in response to events, while also managing the infrastructure necessary to execute the code within milliseconds of an event.",1
+"Nashorn is an open-source, JVM-based JavaScript engine. It replaced the Rhino JavaScript engine starting in Java 8.",0
+KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).,1
+Bluebird is a fully featured promise library for client and server JavaScript with focus on innovative features and performance.,0
+"Google App Engine is a cloud computing technology for hosting web applications in Google-managed data centers. Google App Engine is a Platform as a Service (PaaS) offering for Java, Python, Go and PHP.",1
+"Swift is an application and systems programming language developed by Apple and distributed as open source. Use this tag only for questions that are specific to Swift language features, or those that require code in the language.",0
+MariaDB is an open source database server that offers drop-in replacement functionality for MySQL.,1
+OpenID Connect is a REST-friendly protocol for the (possibly cross-domain) exchange of user identity built on top of the OAuth 2.0 and JWT specifications.,1
+Akka is an open-source toolkit and runtime simplifying the construction of concurrent and distributed applications on the JVM. It implements the actor model known from Erlang.,1
+"Ceph is a distributed object store and file system designed to provide excellent performance, reliability and scalability.",1
+"A ""web service"" is a software system designed to support interoperable machine-to-machine interaction over the World Wide Web.",1
+The ASP.NET MVC Framework is an open source web application framework and tooling that implements a version of the model-view-controller (MVC) pattern tailored towards web applications and built upon an ASP.NET technology foundation.,2
+"The Rackspace Cloud is a set of cloud computing products and services billed on a utility computing basis from the US-based company Rackspace. Offerings include web application hosting or platform as a service (""Cloud Sites""), Cloud Storage (""Cloud Files""), virtual private server (""Cloud Servers""), load balancers, databases, backup, and monitoring.",1
+Internet Explorer 6 (IE6) is an old version of Internet Explorer. It was shipped with Windows XP and Windows Server 2003. Internet Explorer 6 is no longer supported by Microsoft.,1
+"SonarQube (formerly Sonar) is a quality management platform focusing on continuous analysis of source code quality. It provides source code quality metrics such as duplicated code, coding standards, unit tests, code coverage, complex code, potential bugs, comments and design and architecture.",2
+"An open source BSD-licensed in-memory data structure store used as database, cache and message broker. Supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. Has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",1
+"Data visualization is the study of the visual representation of data. Maps and charts are the most common types of data visualization, but there are many more.",2
+The Java Virtual Machine (JVM) enables a set of computer software programs and data structures to use a virtual machine model for the execution of other computer programs and scripts. Use this tag for questions dealing with tools provided by a JVM or how it works in a specific scenario.,1
+Meteor is a modular platform for developing web and mobile applications in JavaScript based on the NodeJS platform.,1
+A next generation JavaScript client framework that leverages simple conventions to empower your creativity.,0
+"Enlive is a Clojure library for HTML/XML extraction, transformation, and templating.",0
+"Retrofit is a type-safe REST client for Android and Java by Square, Inc.",0
+A ClojureScript interface to Facebook's React.,0
+"NoSQL (sometimes expanded to ""not only SQL"") is a broad class of database management systems that differ from the classic model of the relational database management system (RDBMS) in some significant ways.",2
+"In a distributed environment, failure of any given service is inevitable. Hystrix is a library designed to control the interactions between these distributed services providing greater latency and fault tolerance.",2
+"Mercurial is a fast, open-source DVCS (Distributed Version Control System).",2
+"F# is a succinct, expressive and efficient functional and object-oriented language for .NET which helps you write simple code to solve complex problems.",0
+"The Q.js JavaScript promise library. Q catches errors and uses a `then` technique to handle JavaScript callbacks and exceptions. Do *not* use for Angular's $q, use [angular-promise] instead!",0
+"Mapbox is a mapping platform that includes custom base maps, directions, geocoding, and mobile SDKs.",1
+"New Relic is a web application performance monitoring service for Ruby, Java, .NET, PHP, Python, Node.js, Android, and iOS apps.",2
+Alamofire is an HTTP networking library written in Swift.,0
+Client/server side PDF printing in pure JavaScript.,2
+"GPGPU is an acronym for the field of computer science known as ""General Purpose computing on the Graphics Processing Unit (GPU)""",1
+"Google BigQuery is a web service that lets you do interactive analysis of massive datasets—up to billions of rows. Scalable and easy to use, BigQuery lets developers and businesses tap into powerful data analytics on demand.",1
+"Play Framework 2.0 is a major revision of Play, a Ruby on Rails-like framework for the Java platform. Version 2.0 introduces features such as the use of Scala language, Akka actors, Scala templates and a build system (SBT).",0
+"Lua is a powerful, fast, lightweight, embeddable scripting language. It's dynamically typed, runs by interpreting bytecode and has automatic garbage collection. Its speed is one of the main reasons It is widely used by the machine learning community. It is often referred to as an ""extensible extension language"".",0
+Ember.js is an MVC application framework written in JavaScript.,0
+"Neo4j is an open-source, transactional graph database well suited to connected data. You can use it for a variety of use-cases directly from all JVM languages or via other language drivers via the HTTP-APIs.",1
+PIT is a fast bytecode-based mutation testing system for Java.,2
+"Node.js is an event-based, non-blocking, asynchronous I/O framework that uses Google's V8 JavaScript engine and libuv library. It is used for developing applications that make heavy use of the ability to run JavaScript both on the client, as well as on server side and therefore benefit from the re-usability of code and the lack of context switching.",1
+HTTP Strict Transport Security (HSTS) is a web security policy mechanism whereby a web server declares that complying user agents are to interact with it using only secure HTTPS connections.,1
+GitHub is a web-based hosting service for software development projects that use Git for version control.,2
+spray is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.,0
+"Frege is a Haskell for the JVM. Like any Haskell, it is purely functional, enjoys a strong static type system with global type inference and non-strict - also known as lazy - evaluation.",0
+"Yeoman is a command-line tool for frontend web development. As a ""web application boilerplate,"" its main features include project scaffolding, a build process based in part on Grunt.js, and package management for updating project dependencies.",0
+"A powerful and flexible toolkit for building Web APIs. Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.",0
+"Elixir is an open-source, dynamic, compiled, general purpose functional programming language. It was designed to be fully compatible with the Erlang platform and is well suited to writing fault-tolerant, distributed applications with soft real-time guarantees and the ability for hot-code-swapping.",0
+"RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. If you are using the require call that comes bundled with Node.js then you are NOT using RequireJS. Please do not use this tag for such cases. Use the require tag instead.",0
+"A Sinatra based framework for building dashboards in simple way, it uses premade widgets, or fully create your own with scss, html, and coffeescript.",0
+Fastly is a CDN provider.,1
+"NuGet is a free, open source developer focused package management system for the .NET platform.",2
+"Microsoft Azure (formerly Windows Azure) is a Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) cloud computing platform by Microsoft. Users of the platform can deploy their applications onto cloud hosting benefiting from on-demand service, elastic scale, and a highly managed environment on a pay-as-you-go basis.",1
+Backbone.js is a JavaScript framework with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm,0
+Hadoop 2 represents the second generation of the very popular open source distributed platform Apache Hadoop.,1
+"Elasticsearch is an Open Source (Apache 2), Distributed, RESTful, Search Engine built on top of Lucene.",1
+Cloudera Impala is an open source Massively Parallel Processing (MPP) query engine that runs natively on Apache Hadoop.,1
+"CoffeeScript is a language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.",0
+"Ansible is a model-driven configuration management, multi-node deployment/orchestration and remote task execution system. Uses SSH by default, so there is no special software to be installed on the nodes you manage. Ansible can be extended in any language.",2
+"Swagger is a specification and framework implementation for describing, producing, consuming, and visualizing RESTful web services.",2
+Cucumber is a Behavior Driven Development (BDD) tool that executes functional descriptions written in plain text (structured in the simple Gherkin language) as automated tests.,2
+"Heroku is a cloud platform for Ruby, Node.js, Python, Go, PHP, and JVM-based applications. It features Git-based, GitHub, and API deployment strategies, a large number of services offered as add-ons, and a full API.",1
+"Zucchini is a visual iOS testing framework built on Ruby, CoffeeScript and JavaScript.",2
+Frank allows you to write structured text test/acceptance tests/requirements (using Cucumber) and have them execute against your iOS application.,2
+"Use for programming or development questions related to Android, Google's OS for digital devices (Phones, Tablets, Autos, TVs, Wear, Glass). Please use Android-specific tags such as android-intent, not intent. For questions about general use, not development or programming, use http://android.stackexchange.com.",1
+Locust is a python load testing framework,2
+"Immutable.js provides Persistent Immutable List, Stack, Map, OrderedMap, Set, OrderedSet and Record. They are highly efficient on modern JavaScript VMs (browser and nodejs) by using structural sharing via hash maps tries and vector tries as popularized by Clojure and Scala, minimizing the need to copy or cache data.",0
+RDFa (Resource Description Framework in Attributes) is a technique that allows to express structured data in markup languages. It provides a set of attributes to augment the visual information on the Web with machine-readable hints.,1
+"GraphQL is a data querying language to describe the complex, nested data dependencies of modern web applications. It has been created by Facebook.",0
+"GWT (formerly the Google Web Toolkit) is a development toolkit for building and optimizing complex browser-based applications. Its goal is to enable productive development of high-performance web applications without requiring the developer to be an expert in browser quirks, XMLHttpRequest, and JavaScript. GWT is used by many products at Google, including the new versions of AdWords and Groups. It's open source and completely free (Apache 2.0 licensed).",1
+"Sass (Syntactically Awesome Style Sheets) is an extension of CSS adding features like nested rules, variables, mixins and class extensions. This enables developers to write structured, manageable and reusable CSS. Sass is compiled into standard CSS.",0
+"React Native enables you to build mobile apps using JavaScript and React-based declarative UI components that get translated to platform-native views. The focus of React Native is on developer efficiency across all the platforms you care about - learn once, write anywhere. ",0
+"Java 8 refers to version 8 (internal number 1.8) of the Java platform, released on 18 March 2014.",0
+"TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, interfaces and modules and compiles to plain JavaScript. TypeScript includes advanced features such as generic types, type inference, lambda functions, string templates (interpolation), destructuring and more. ",0
+Composer is a tool for dependency management in PHP. It allows you to declare your project dependencies and will install them in for you. See http://getcomposer.org.,2
+AngularJS is an open-source JavaScript framework. Its goal is to augment browser-based applications with Model–View–Whatever(MV*) capability and reduce the amount of JavaScript needed to make web applications functional. These types of apps are also frequently known as Single-Page Applications.,0
+Redux is a predictable state container for JavaScript applications based on the Flux design pattern.,0
+"You can get Apigee product related answers and support on the Apigee Community at http://community.apigee.com Apigee is a company that produces and sells an API Management Platform. Products include an API communications gateway, a backend-as-a-service App Services / REST-accessible JSON store. Use this tag for questions about Apigee products; and also indicate the Apigee product such as API Dashboard or Edge.",2
+"JavaServer Faces (JSF) is a model-view-presenter framework typically used to create HTML form based web applications. Using the standard components and render kit, stateful HTML views can be defined using Facelets or JSP tags and wired to model data and application logic via backing beans.",0
+Apache Spark is an open source cluster computing system for large-scale data analytics computing.,1
+"Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments.",0
+"In HTML5: hardware-agnostic events from devices like a mouse, pen, or touchscreen. In CSS: a property specifying if a particular graphic element can become the target of mouse events.",0
+Sensu is an open source monitoring framework written in ruby.,2
+"Google Chrome is a web browser available on mobile, TV, and desktop platforms. Developed by Google, it uses the Blink layout engine and application framework and V8 JavaScript engine. ",1
+"Mashery is a commercial API management service for deploying, documenting and monitoring API services in the cloud or on premise ",2
+OAuth (Open Authorization) is a specification for client applications to access protected resources on behalf of a user. It was developed as an alternative to users handing out their login credentials to third-party applications.,1
+Mobile Website refers to the design and implementation of web content aimed at clients using mobile devices such as phones or tablets.,1
+Go is a Continuous Delivery server for automating the build-test-release cycle. It is open source.,2
+"Scratch is a graphical drag-and-drop language developed by MIT.",0
+HAML is a markup language that’s used to cleanly and simply describe the HTML of any web document without the use of inline code. It can be used as a standalone HTML generation tool or as a template rendering engine in a web framework such as Ruby on Rails or Ramaze.,0
+"Couchbase Server is a distributed database engineered for performance, scalability, availability and flexible query. It enables developers to build applications easier and faster by leveraging the power of SQL with the flexibility of JSON. Couchbase is built on three core principles: Simple, Fast, Elastic.",1
+Riak is a key/value data store written in Erlang. It implements principles from Amazon's Dynamo paper. ,1
+Hardware abstraction layer.,0
+"Cloud Foundry is an open platform as a service, providing a choice of clouds, developer frameworks and application services. It is an open source project and is available through a variety of private cloud distributions and public cloud instances, including CloudFoundry.com.",1
+"Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation. Storm is simple, can be used with any programming language ",1
+"ALT.NET describes a coalescing community of like-minded individuals within the larger world of the Microsoft .NET Framework who felt a growing frustration that Microsoft tooling, guidance, and .NET culture at large did not reflect or support an important set of core values. One of the common topics at the ALT .NET event was closing gaps between requirements, testing, and code.",1
+"Wolfram Language is a knowledge based, multi-paradigm programming language. In a first approximation, the Wolfram Language = Mathematica + Wolfram|Alpha + Cloud + more. It's compatible with Mathematica, but it's a significant evolution, including knowledge, deployment and many new ideas.",0
+"Groovy is an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl and Smalltalk. It can be used as a scripting language for the Java platform.",0
+BIRT (Business Intelligence Reporting Tool) is an open source Eclipse-based reporting system that integrates with your Java/Java EE application to produce compelling reports.,2
+Amazon S3 (simple storage service) is an online storage service from Amazon Web Services. ,1
+"Realm is a mobile database replacement for SQLite & Core Data. It is available for Xamarin, Java, Objective-C, React Native and Swift.",1
+ReactiveCocoa (RAC) is an Objective-C framework for Functional Reactive Programming. It provides APIs for composing and transforming streams of values.,0
+Domain-Specific Language is a programming language intended for a particular application domain ,0
+H2O is an in-memory platform for machine learning based on Java and Apache-technologies like Hadoop. It aims at parallelized processing and provides interfaces to many languages like R and Python. It is an open source project maintained by 0xdata.,1
+"Java is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM). ""Java platform"" is the name for a computing system that has installed tools for developing and running Java programs. Use this tag for questions referring to Java programming language or Java platform tools. (Note that Java is not to be confused with JavaScript) ",0
+Windows Phone is Microsoft's mobile operating system and software development platform. Use this tag for questions specific to Version 7.x ,1
+"Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need.",0
+"An open source project that gives system administrators the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on-premises or in the cloud.",2
+"PostgreSQL is an open-source, object-relational database management system (ORDBMS) available for all major platforms including Linux, UNIX, Windows and OS X. Please mention your exact version of Postgres when asking questions. Questions concerning administration or advanced features are best directed to dba.stackexchange.com.",1
+Leaflet is an open-source JavaScript library for displaying interactive maps.,2
+Gradle is a project build automation tool that uses a Groovy DSL. Gradle build scripts support Maven and Ivy repositories as well as plain file system for dependency management.,2
+CoreOS provides a new server operating system for running thousands of servers themselves.,1
+A Time series is a sequence of data points with values measured at successive times (either in continuous time or at discrete time periods). Time series analysis exploits this natural temporal ordering to extract meaning and trends from the underlying data.,1
+"Ionic is a front-end framework for developing native-feeling hybrid mobile apps in HTML5 using Sass and AngularJS. By default, it runs on top of Cordova, though you can also choose to use PhoneGap.",0
+"Origami is a prototyping tool for designing user interfaces. It was developed by Facebook and released in December 2013. Related questions are about the tool itself and/or its use with Quartz Composer, a visual programming language developed by Apple Inc.",2
+"The Apache Jackrabbit™ content repository is a fully conforming implementation of the Content Repository for Java Technology API (JCR, specified in JSR 170 and 283). A content repository is a hierarchical content store with support for structured and unstructured content, full text search, versioning, transactions, observation, and more.",1
+"TotallyLazy is a functional library for Java that tries to be as lazy as possible, just like Clojure's collection library ",0
+Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. ,2
+"Bootstrap is a front-end framework designed to kick-start development of Web apps and sites. For questions related to a version of Bootstrap also use the specific version's tag from ""twitter-bootstrap-2"", ""twitter-bootstrap-3"" and ""twitter-bootstrap-4"" tags.",0
+"Elm is a functional programming language for writing web applications that can fully replace, or interoperate with, HTML/CSS/JavaScript. ",0
+"OpenStack (http://openstack.org) is a collection of open source projects that enables an open, scalable cloud infrastructure. The core of OpenStack is meant to provide consistent APIs and interfaces to a variety of potential back-ends.",1
+"The WCF Web API project allows WCF developers to expose their APIs via HTTP. Under ASP.NET MVC4, WCF Web API has become ASP.NET Web API.",2
+AppArmor is a Linux Security Module (LSM) for Linux kernels. It implements Mandatory Access Control to confine programs within their limited set of resources.,1
+"RSpec is a behavior-driven development (BDD) framework for the Ruby programming language, inspired by JBehave. It contains its own fully integrated mocking framework based upon JMock. The framework can be considered a domain-specific language (DSL) and resembles a natural language specification. ",2
+Linux containers (LXC) is an operating system–level virtualization method for running multiple isolated Linux systems (containers) on a single control host.,1
+"Ruby is a multi-platform open-source, dynamic object-oriented interpreted language, created by Yukihiro Matsumoto (Matz) in 1995.",0
+"CoreCLR is new .NET Core runtime. It is an execution engine for .NET apps, performing functions such as IL byte code loading, compilation to machine code and garbage collection. ",1
+"Flight is a lightweight, component-based JavaScript framework that maps behavior to DOM nodes. Twitter uses it for their web applications.",0
+Knockout.js is an open source JavaScript library for dynamic HTML UIs using the Model-View-View Model (MVVM) pattern.,0
+"F# is a succinct, expressive and efficient functional and object-oriented language for .NET which helps you write simple code to solve complex problems.",0
+"Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.",0
+"Splunk is a tool for collecting, monitoring, visualizing and analyzing machine data from any source. You may receive faster responses at answers.splunk.com which is actively monitored by Splunk employees",2
+"Alice is an innovative 3D programming environment that makes it easy to create an animation for telling a story, playing an interactive game, or a video to share on the web.",0
+"paas is short for Platform-as-a-service, a category of cloud-centric services.",1
+"TLA+ is a language and toolchain for specifications based on TLA, the Temporal Logic of Actions. The TLA Toolbox includes a translator from PlusCal to TLA+, the TLC model checker, and an IDE.",0
+"D3.js is a small, open-source JavaScript data visualization library for manipulating HTML, SVG, and CSS documents based on data.",2
+"Packetbeat is the Open Source solution for monitoring Distributed Applications. Think of it like a distributed real-time Wireshark with a lot more analytics features. Packetbeat agents sniff the traffic between your application processes, parse on the fly protocols like HTTP, MySQL, Postgresql, Redis or Thrift and correlate the messages into transactions. Tag:#packetbeat TW:Packetbeat St:ASSESS",2
+Squid is an open-source HTTP caching proxy server.,2
+Robolectric is a unit test framework which allows for test-driven development of Android apps. Tests run inside the JVM on your workstation. ,0
+"HTML (Hyper Text Markup Language) is the standard markup language used for structuring web pages and formatting content. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. The most recent revision to the HTML specification is HTML5.",0
+"Flyway by Boxfuse is an open-source database migration tool. It strongly favors simplicity and convention over configuration. It is simple, focused and powerful.",2
+AppCode is an IDE by JetBrains for building apps for iOS/OSX ,2
+"Vagrant is a command line tool for provisioning virtualized environments on top of various providers, including VirtualBox, VMWare and AWS. ",2
+An open source Platform-as-a-Service inspired by Heroku and built on CoreOS and Docker.,1
+"Windows Internet Explorer 8 is a web browser developed by Microsoft, released on 19 March 2009 for Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and Windows 7. ",1
+Dagger is a dependency injection library for Java and Android.,0
+"An automated acceptance testing framework for Android and iOS. Calabash enables you to write and execute automated acceptance tests of mobile apps. Calabash is cross-platform, supporting Android and iOS native apps.",2
+"Java based data integration framework; can be used to transform/map/manipulate data in various formats (CSV,FIXLEN,XML,XBASE,COBOL,LOTUS, etc.); can be used standalone or embedded(as a library). Connects to RDBMS/JMS/SOAP/LDAP/S3/HTTP/FTP/ZIP/TAR.",2
+"CoAP is an application protocol designed for constrained devices, designed to easily translate to HTTP.",1
+"Go is an open source programming language initially developed at Google. It is a statically-typed language with syntax loosely derived from C, adding automatic memory management, type safety, some dynamic-typing capabilities, additional built-in types such as variable-length arrays and key-value maps, and a large standard library. Tag #go TW:Go language St:ADOPT",0
+Atom is an XML based news-feed format,1
+"Amazon EC2 stands for ""Amazon Elastic Compute Cloud"". It is a part of Amazon Web Services (AWS) and allows users to rent virtual machine instances by the hour. You can create instances, launch and manage them through a central interface, through a web API or through a console.",1
+"Apache Ant (formerly Jakarta Ant) is a declarative, XML-based build tool created originally for Java projects. It provides a rich set of standard tasks for performing most common build operations, such as compiling Java source, building archives and running tests. Ant's functionality can be extended through custom tasks and macros.",2
+REST Assured is a Java-based test library for REST services.,2
+"Highcharts is a Javascript charting library that uses HTML, SVG, and VML. The editor offers both open source/nonprofit and commercial editions of the product.",2
+"The Rackspace Cloud is a set of cloud computing products and services billed on a utility computing basis from the US-based company Rackspace. Offerings include web application hosting or platform as a service (""Cloud Sites""), Cloud Storage (""Cloud Files""), virtual private server (""Cloud Servers""), load balancers, databases, backup, and monitoring. ",1
+"Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. ",1
+Carthage is a decentralized dependency manager for Cocoa projects.,2
+"psake (pronounced *sah-kay*, as in Japanese rice wine) is a build automation tool implemented in Windows PowerShell.",2
+An open source distributed Analytical Engine from eBay to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop to support TB to PB size analysis.,1
+"Genymotion is a relatively fast Android emulator which comes with pre-configured Android (x86 with OpenGL hardware acceleration) images, suitable for application testing. The project has evolved from the old BuildDroid project, then AndroVM, and comes with a new player design, installer and more.",2
+OpenSocial is a public specification that defines a component hosting environment (container) and a set of common APIs for web-based applications,1
+"Related to the browser-sync Node.js module, used to synchronize URLs, interactions and code changes across multiple devices. ",2
+Open-Source tool in Java to draw UML Diagrams. ,2
+webpack is a module bundler. webpack takes modules with dependencies and generates static assets representing those modules. ,2
+"Amazon Web Services (AWS) is a collection of commercial services centered around virtualized, commodity and clustered computing, networking, database and storage, as well as supporting tools that are offered through infrastructure as a service (IaaS).",1
+"jQuery Mobile is a touch-optimized web framework for smartphones and tablets. It provides a unified user interface system across all popular mobile device platforms, built on jQuery. ",2
+"FIDO Universal 2nd Factor (U2F) a rapidly growing open authentication standard, allows greater user account login security ",1
+Apache Maven is a software project management and comprehension tool. This tag is for questions that don't relate to a specific Maven version. Use the gradle tag instead for questions relating to Gradle. ,2
+"Haskell is an advanced functional programming language, featuring strong static typing, lazy evaluation, extensive parallelism and concurrency support, and unique abstraction capabilities.",0
+React Components that Implement Google's Material Design. http://material-ui.com ,0
+TensorFlow is an open source library for machine learning and machine intelligence. It is developed by Google and became open source in Nov. 2015 ,1
+"Datomic is a database of flexible, time-based facts, supporting queries and joins, with elastic scalability, and ACID transactions. ",1
+"Team Foundation Server is a complete Application Lifecycle Management (ALM) suite, offered by Microsoft.",2
+RESTful API Modeling Language (RAML).,2
+"Google Wave is a open source, real time collaboration web application provided by Google, extensible by developers via robots and gadgets.",2
+"indexedDB provides a way to store data in the browser using Javascript. Unlike relational databases, indexedDB uses a key-value store that is conceptually similar to HTML5's local storage. However, indexedDB is better than local storage for storing large amounts of data and for querying data more quickly. indexedDB is supported in IE, Chrome and Firefox, although support for specific features varies.",2
+"Jaspersoft Studio is the free, open source, eclipse-based report designer for JasperReports and JasperReports Server. Create very sophisticated layouts containing charts, images, subreports, crosstabs and much more. Access your data through JDBC, TableModels, JavaBeans, XML, Hibernate, CSV, and custom sources. Then publish your reports as PDF, RTF, XML, XLS, CSV, HTML, XHTML, text, DOCX, or OpenOffice.",2
+This refers to tablet personal computers. These are mobile computing devices characterised by touchscreen interfaces.,1
+Visual Studio is an integrated development environment (IDE) from Microsoft. Do not use this tag unless you have a specific question about Visual Studio -- not just a coding issue.* ,2
+"Firefox is a free, open source and cross-platform web browser created by Mozilla. ",1
+"Polly is a .NET 3.5 / 4.0 / 4.5 / PCL (Profile 259) library that allows developers to express transient exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.",2
+DigitalOcean is a cloud-hosting provider for deploying an SSD cloud server.,1
+"CloudStack is open source cloud computing software for creating, managing, and deploying infrastructure cloud services. It uses existing hypervisors such as Oracle VM, KVM, vSphere, and XenServer for virtualization. In addition to its own API, CloudStack is also implementing the Amazon EC2 and S3 APIs, as well as the vCloud API. ",1
+"SpagoBI is an Open Source Business Intelligence suite covering analytical areas of Business Intelligence projects, like reporting, multidimensional analysis (OLAP), interactive cockpits, data mining, network analysis,... ",2
+"Xamarin is a software company, acquired by Microsoft in February 2016, which was created by the engineers behind Mono, Xamarin.iOS (formerly called MonoTouch), Xamarin.Android (formerly called Mono for Android), Xamarin.Mac (and the open source MonoMac) and Xamarin Studio (and the open source MonoDevelop).",2
+React is a JavaScript library for building user interfaces. It uses a declarative paradigm and aims to be both efficient and flexible.,0
+A Powershell Unit testing framework. ,0
+"boot2docker is a lightweight Linux distribution based on Tiny Core Linux made specifically to run Docker containers. It runs completely from RAM, weighs ~27MB and boots in ~5s (YMMV).",2
+RubyMotion is a commercial system for building native iOS and Android apps using Ruby. ,0
+"Hive is a data warehouse system for Hadoop that facilitates easy data summarization, ad-hoc queries, and the analysis of large datasets stored in Hadoop compatible file systems. Hive provides a mechanism to project structure onto this data and query the data using a SQL-like language called HiveQL. ",0
+"Scala is a general purpose programming language principally targeting the Java Virtual Machine. Designed to express common programming patterns in a concise, elegant, and type-safe way, it fuses both imperative and functional programming styles. Its key features are:advanced static type system with type inference; function types; pattern-matching; implicit parameters and conversions; operator overloading; full interoperability with Java; concurrency ",0
+Ruby build utility similar to make with build commands defined in pure Ruby.,2
+Docker provides a high-level API to containerize unix processes and applications with some degree of isolation and repeatability across servers. ,1
+Python is a dynamic and strongly typed programming language designed to emphasize usability. Two similar but incompatible versions of Python are in widespread use (2 and 3). If you have a version-specific Python question consider using the python-2.7 or python-3.x tags in addition to the python tag. ,0
+"iBeacons are Bluetooth Low Energy (BLE, also known as Bluetooth Smart) transmitters that notify nearby receivers, such as a smart phone, of their presence for the purposes of proximity sensing. A unique identifier allows the the receiver to take specific action such as displaying a notification message or configuring itself to use a smart device such as a lamp, smart-switch or other sensor. ",1
+"NaCl (pronounced ""salt"") is a high-speed software library for network communication, encryption, decryption, signatures, and more. Not to be confused with [google-nativeclient].",2
+Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.,1
+"Vert.x is an event driven application framework that runs on the JVM allowing the development of asynchronous web applications in Java, Javascript, CoffeeScript Ruby, Python, Clojure, Ceylon and Groovy. ",1
+"Jekyll is a blog-aware, static site generator written in Ruby.",2
+"Cordova (formerly PhoneGap) is an open-source, cross-device mobile development platform that allows developers to create mobile applications using standard web technologies like HTML, JavaScript, and CSS that can be deployed to each device, rather than programming in each device's native language.",1
+REST Client for Chrome Browser. Tag:#postman TW:Postman St:TRIAL,2
+The OSGi framework is a module system and service platform for the Java programming language that implements a complete and dynamic component model. Tag: osgi TW: OSGi St: HOLD,1
+"Apache Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs. The salient property of Pig programs is that their structure is amenable to substantial parallelization which enables them to handle very large data sets.Tag:#apache-pig TW:Apache Pig St:TRIAL",2
+Espresso is a library which is used to write Android UI tests. Known also as Google's Testing Tools For Android.,2
+"Less is an open-source stylesheet preprocessor that extends CSS with dynamic behavior such as variables, mixins, operations and functions. It's also a unix command to display a file. ",0
+"Selenium is a popular open-source tool for automating web browsers. When using this tag, also include other tags for the specific components you are using, e.g. selenium-webdriver for the language bindings, selenium-ide, selenium-grid, etc.",2
+"An icon font is a font containing glyphs to be used as icons in a web page or application. Use this tag for questions involving fonts used specifically in this way, including various methods and practices for using glyphs as icons or for creating fonts that contain such glyphs. ",2
+An HTTP+SPDY+Proguard client for Android and Java applications.,0
+Cursive is a plug-in for IntelliJ for writing Clojure and ClojureScript code.,2
+"Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort. It is an alternative to other Ruby web application frameworks such as Ruby on Rails, Nitro, Camping, and Rango.",0
+GitLab is an Open Source Git repository manager with issue tracking and wiki as well as continuous integration features. ,2
+"Talend is an open source integration vendor that provides software for data integration, data quality, master data management, big data, business process management and service-oriented architecture. ",2
+MemSQL is a high-performance distributed relational database that uses the MySQL protocol ,1
+"Clojure is a modern Lisp dialect for the Java Virtual Machine (with versions for the CLR and JavaScript). More than merely an implementation of Lisp in Java, Clojure provides access to Java's classes and ecosystem.",0
+Gremlin is a graph traversal language of Apache TinkerPop ,0
+"Dapper is a micro-ORM for .NET developed and used by the Stack Overflow team, focusing on raw performance as the primary aim.",0
+"OpenAM is an open source access management, entitlements and federation server platform. ",1
+"DO NOT use this tag unless you are addressing Apple's iPhone and/or iPod touch specifically. For questions not dependent on hardware, use the tag ""iOS"". Another tag to consider is ""cocoa-touch"" (but not ""cocoa""). Please refrain from questions regarding the iTunes App Store or about iTunes Connect. If using C#, tag with mono. ",1
+"An annotation-based Android view ""injection"" framework aimed at reducing boilerplate. ",0
+"Cloud computing is about hardware-based services involving computing, network and storage capacities. These services are provided on-demand, hosted by the cloud provider and can easily scale up and down.",1
+"PowerShell is a component of Microsoft Windows with a command-line shell and a scripting environment. Many Windows components and Microsoft products expose management interfaces to PowerShell, making it particularly suited to system administration and automation tasks. It is a modern day successor to VBScript and batch files.",2
+A version of the C# and VB compilers that is written in managed code. ,2
+"Serverspec provides ruby RSpec tests for checking your servers are configured correctly. It tests the servers actual state by executing commands locally, via SSH, WinRM or Docker API. ",2
+"An enterprise service bus (ESB) is a software architecture construct which provides fundamental services for complex architectures via an event-driven and standards-based messaging engine (the bus). Developers typically implement an ESB using technologies found in a category of middleware infrastructure products, usually based on recognized standards. ",2
+"npm is the official package manager for Node.js, the non-blocking, asynchronous I/O framework that uses Google's V8 JavaScript engine. It can be used to install and publish CommonJS modules, jQuery plugins, reusable javascript code (libraries) and JavaScript-based CLI programs.",0
+"Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.",0
+ASP.NET Web API is a framework for building HTTP services for clients like browsers and mobile devices. It is based on the Microsoft .NET Framework and ideal choice for building RESTful services.,0
+Consul is a tool for discovering and configuring services in the infrastructure.,2
+Facebook Platform lets developers integrate their apps directly into the Facebook social networking service. Use this tag for questions which may arise when developing FOR Facebook. This tag is NOT for support questions about using the Facebook website or the official Facebook app. It is also NOT for questions of the  I want to implement a feature similar to what Facebook has  variety. ,1
+"Zepto.js is a minimalist JavaScript framework for modern browsers, with a jQuery-compatible syntax.",1
+"Gulp is a JavaScript build system, node.js-based task runner like Grunt. Gulp uses streams and code-over-configuration for a simpler and more intuitive build process. ",2
+NEventStore (aka JOliver EventStore to disambiguate it from geteventstore.com which launched later) is a persistence library used to abstract different storage implementations when using event sourcing as a storage mechanism. Event sourcing is most closely associated with a concept known as CQRS. ,1
+"ECMAScript is the name of the Ecma International Standard 262. It is based on the scripting language JavaScript which was delivered by Netscape to Ecma for standardization. The 5th Edition is an update of the 3rd edition specification after the cancellation of the 4th edition. It adds new features including strict mode, getters and setters, a JSON object, and new methods for Object, Array, Date, and Function prototypes. ",0
+Grunt is a task-based command line build tool and task runner for JavaScript projects. ,2
+LambdaJ is a library to manipulate a collections without any iterations.,0
+Rancher is an open source project that provides a complete platform for operating Docker in production. ,1
+A clojure/clojurescript library for asynchronous programming. ,0
+"Puppet is a ruby-based Configuration Management system incorporating a model-driven DSL. Its purpose is to provide configuration file enforcement, service state monitoring, package installation and other server-side management. ",2
+"ESP8266 is a highly integrated chip designed for the needs of an increasingly connected world. It offers a complete and self-contained Wi-Fi networking solution, allowing it to either host applications or offload all Wi-Fi networking functions from another application processor. The most important aspect is the price of the chip. ",1
+"R is a free, open-source programming language and software environment for statistical computing, bioinformatics, and graphics. Please supplement your question with a minimal reproducible example. For statistical questions please use http://stats.stackexchange.com.",0
+"JavaScript (not to be confused with Java) is a dynamic, weakly-typed language used for client-side as well as server-side scripting. Use this tag for questions regarding ECMAScript and its various dialects/implementations (excluding ActionScript and Google-Apps-Script). Unless another tag for a framework/library is also included, a pure JavaScript answer is expected. ",0
+"The Pentaho BI Suite is an open source Business Intelligence suite with integrated reporting, dashboard, data mining, workflow and ETL capabilities. It is primarily written in Java.",2
+Functional Java is is an open source library to learn and implement functional programming concepts in Java. ,0
+"Dart is a class-based, optionally-typed programming language for building web and command-line applications. Dart compiles to modern JavaScript to run on the client and runs natively on the Dart VM for server-side apps. ",0
+Git is an open-source distributed version control system (DVCS). ,2
+"MongoDB is a scalable, high-performance, open source, document-oriented NOSQL database. It supports a large number of languages and application development platforms. Questions about server administration can be asked on http://dba.stackexchange.com.",1
+"A rich Internet application (RIA) is a Web application that has many of the characteristics of desktop application software, typically delivered by way of a site-specific browser, a browser plug-in, an independent sandbox, extensive use of JavaScript, or a virtual machine.",1
+Chef is an open source systems integration framework from Chef (formerly Opscode) that allows you to describe the configuration of systems and infrastructure in code. It brings the benefits of configuration management to your entire infrastructure. ,2
+"AppHarbor is a cloud application platform for .NET. Applications can be deployed to AppHarbor using Git, Mercurial, Subversion or TFS. A large number of services (relational and no-sql databases, email, error logging) are offered as add-ons. ",1
+"JRuby is an open-source Java implementation of the Ruby programming language. It is Ruby for the JVM. Using idiomatic Ruby syntax, JRuby can consume Java classes and libraries with ease.",1
+"Rust is a systems programming language focused on three goals:safety, speed, and concurrency. It maintains these goals without needing a garbage collector, making it a useful language for a number of use cases other languages aren't good at:embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems. ",0
+Docker provides a high-level API to containerize unix processes and applications with some degree of isolation and repeatability across servers. ,2
+Axon is a Java application framework for implementing software using the CQRS principles. ,0
+"HTML5 (Hyper Text Markup Language, version 5) is an umbrella term for recent web technologies. It is also the latest iteration of HTML. It became a W3C Recommendation in October 2014, introducing new elements and APIs.  ",0
+"C# 4.0 introduced features like dynamic objects, COM interoperability improvements, generic co- and contra-variance, optional and named parameters. ",0
+"Nancy is a lightweight web framework for the .Net platform, inspired by Sinatra. Nancy aims to deliver a low ceremony approach to building light, fast web applications.",0
